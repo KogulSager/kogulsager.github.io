@@ -1162,7 +1162,7 @@ figure.dotted-bg:before {
   z-index: -1;
   content: "";
   position: absolute;
-  bottom: -50px;
+  bottom: -40px;
   right: -50px;
   width: 268px;
   height: 224px;
